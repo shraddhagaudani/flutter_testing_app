@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "aniket",
+    "age": 19,
+    "course": "AI"
+  },{
+    "id": 2,
+    "name": "shraddha",
+    "age": 21,
+    "course": "flutter"
+  },{
+    "id": 3,
+    "name": "keval",
+    "age": 21,
+    "course": "flutter"
+  },{
+    "id": 4,
+    "name": "payal",
+    "age": 22,
+    "course": "c++"
+  },{
+    "id": 5,
+    "name": "darshan",
+    "age": 22,
+    "course": "flutter"
+  },{
+    "id": 6,
+    "name": "ishika",
+    "age": 22,
+    "course": "c++"
+  }
+]
